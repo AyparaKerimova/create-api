@@ -1,0 +1,124 @@
+{
+  "products": [
+      {
+          "id": 1,
+          "name": "Laptop",
+          "price": 1000,
+          "isDiscounted": true
+      },
+      {
+          "id": 2,
+          "name": "Tablet",
+          "price": 500,
+          "isDiscounted": false
+      },
+      {
+          "id": 3,
+          "name": "Smartphone",
+          "price": 800,
+          "isDiscounted": true
+      },
+      {
+          "id": 4,
+          "name": "Monitor",
+          "price": 300,
+          "isDiscounted": false
+      },
+      {
+          "id": 5,
+          "name": "Keyboard",
+          "price": 50,
+          "isDiscounted": true
+      },
+      {
+          "id": 6,
+          "name": "Mouse",
+          "price": 30,
+          "isDiscounted": false
+      },
+      {
+          "id": 7,
+          "name": "Headphones",
+          "price": 100,
+          "isDiscounted": true
+      },
+      {
+          "id": 8,
+          "name": "Speaker",
+          "price": 150,
+          "isDiscounted": false
+      },
+      {
+          "id": 9,
+          "name": "Webcam",
+          "price": 80,
+          "isDiscounted": true
+      },
+      {
+          "id": 10,
+          "name": "Printer",
+          "price": 200,
+          "isDiscounted": false
+      },
+      {
+          "id": 11,
+          "name": "External Hard Drive",
+          "price": 120,
+          "isDiscounted": true
+      },
+      {
+          "id": 12,
+          "name": "USB Drive",
+          "price": 20,
+          "isDiscounted": false
+      },
+      {
+          "id": 13,
+          "name": "Router",
+          "price": 70,
+          "isDiscounted": true
+      },
+      {
+          "id": 14,
+          "name": "Smart Watch",
+          "price": 200,
+          "isDiscounted": false
+      },
+      {
+          "id": 15,
+          "name": "Drone",
+          "price": 500,
+          "isDiscounted": true
+      },
+      {
+          "id": 16,
+          "name": "Projector",
+          "price": 600,
+          "isDiscounted": false
+      },
+      {
+          "id": 17,
+          "name": "Gaming Chair",
+          "price": 250,
+          "isDiscounted": true
+      },
+      {
+          "id": 18,
+          "name": "Graphics Card",
+          "price": 700,
+          "isDiscounted": false
+      },
+      {
+          "id": 19,
+          "name": "Power Bank",
+          "price": 40,
+          "isDiscounted": true
+      },
+      {
+          "id": 20,
+          "name": "VR Headset",
+          "price": 400,
+          "isDiscounted": false
+      }
+  ]
+}
