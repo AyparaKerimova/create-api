@@ -1,124 +1,164 @@
 {
-  "products": [
-      {
-          "id": 1,
-          "name": "Laptop",
-          "price": 1000,
-          "isDiscounted": true
-      },
-      {
-          "id": 2,
-          "name": "Tablet",
-          "price": 500,
-          "isDiscounted": false
-      },
-      {
-          "id": 3,
-          "name": "Smartphone",
-          "price": 800,
-          "isDiscounted": true
-      },
-      {
-          "id": 4,
-          "name": "Monitor",
-          "price": 300,
-          "isDiscounted": false
-      },
-      {
-          "id": 5,
-          "name": "Keyboard",
-          "price": 50,
-          "isDiscounted": true
-      },
-      {
-          "id": 6,
-          "name": "Mouse",
-          "price": 30,
-          "isDiscounted": false
-      },
-      {
-          "id": 7,
-          "name": "Headphones",
-          "price": 100,
-          "isDiscounted": true
-      },
-      {
-          "id": 8,
-          "name": "Speaker",
-          "price": 150,
-          "isDiscounted": false
-      },
-      {
-          "id": 9,
-          "name": "Webcam",
-          "price": 80,
-          "isDiscounted": true
-      },
-      {
-          "id": 10,
-          "name": "Printer",
-          "price": 200,
-          "isDiscounted": false
-      },
-      {
-          "id": 11,
-          "name": "External Hard Drive",
-          "price": 120,
-          "isDiscounted": true
-      },
-      {
-          "id": 12,
-          "name": "USB Drive",
-          "price": 20,
-          "isDiscounted": false
-      },
-      {
-          "id": 13,
-          "name": "Router",
-          "price": 70,
-          "isDiscounted": true
-      },
-      {
-          "id": 14,
-          "name": "Smart Watch",
-          "price": 200,
-          "isDiscounted": false
-      },
-      {
-          "id": 15,
-          "name": "Drone",
-          "price": 500,
-          "isDiscounted": true
-      },
-      {
-          "id": 16,
-          "name": "Projector",
-          "price": 600,
-          "isDiscounted": false
-      },
-      {
-          "id": 17,
-          "name": "Gaming Chair",
-          "price": 250,
-          "isDiscounted": true
-      },
-      {
-          "id": 18,
-          "name": "Graphics Card",
-          "price": 700,
-          "isDiscounted": false
-      },
-      {
-          "id": 19,
-          "name": "Power Bank",
-          "price": 40,
-          "isDiscounted": true
-      },
-      {
-          "id": 20,
-          "name": "VR Headset",
-          "price": 400,
-          "isDiscounted": false
-      }
-  ]
+    "books": [
+        {
+            "id": 1,
+            "title": "Sherlock Holmes",
+            "author": "Conan Doyle",
+            "imgUrl": "https://m.media-amazon.com/images/I/91dDv9WOcFL._AC_UF1000,1000_QL80_.jpg",
+            "genre": "detective",
+            "publishYear": 1892
+        },
+        {
+            "id": 2,
+            "title": "Murder on the Orient Express",
+            "author": "Agatha Christie",
+            "imgUrl": "https://m.media-amazon.com/images/I/71ihbKf67RL.jpg",
+            "genre": "mystery",
+            "publishYear": 1934
+        },
+        {
+            "id": 3,
+            "title": "Pride and Prejudice",
+            "author": "Jane Austen",
+            "imgUrl": "https://cloud.firebrandtech.com/api/v2/image/111/9780785839866/CoverArtHigh/XL",
+            "genre": "romance",
+            "publishYear": 1813
+        },
+        {
+            "id": 4,
+            "title": "1984",
+            "author": "George Orwell",
+            "imgUrl": "https://www.qanun.az/images/news/compressed/2022-03-26-09-32-261648272746.jpg",
+            "genre": "dystopian",
+            "publishYear": 1949
+        },
+        {
+            "id": 5,
+            "title": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/The_Great_Gatsby_Cover_1925_Retouched.jpg",
+            "genre": "classic",
+            "publishYear": 1925
+        },
+        {
+            "id": 6,
+            "title": "To Kill a Mockingbird",
+            "author": "Harper Lee",
+            "imgUrl": "https://m.media-amazon.com/images/I/81aY1lxk+9L.jpg",
+            "genre": "classic",
+            "publishYear": 1960
+        },
+        {
+            "id": 7,
+            "title": "The Catcher in the Rye",
+            "author": "J.D. Salinger",
+            "imgUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1398034300i/5107.jpg",
+            "genre": "classic",
+            "publishYear": 1951
+        },
+        {
+            "id": 8,
+            "title": "Brave New World",
+            "author": "Aldous Huxley",
+            "imgUrl": "https://m.media-amazon.com/images/I/71GNqqXuN3L.jpg",
+            "genre": "dystopian",
+            "publishYear": 1932
+        },
+        {
+            "id": 9,
+            "title": "Moby Dick",
+            "author": "Herman Melville",
+            "imgUrl": "https://m.media-amazon.com/images/M/MV5BMmI5NDNhMDctYjc5Ni00YWU3LThjNTctYzZkNGViYmRlN2YwXkEyXkFqcGc@._V1_.jpg",
+            "genre": "adventure",
+            "publishYear": 1851
+        },
+        {
+            "id": 10,
+            "title": "War and Peace",
+            "author": "Leo Tolstoy",
+            "imgUrl": "https://m.media-amazon.com/images/I/91teiIZ5vwL._UF1000,1000_QL80_.jpg",
+            "genre": "historical",
+            "publishYear": 1869
+        },
+        {
+            "id": 11,
+            "title": "The Hobbit",
+            "author": "J.R.R. Tolkien",
+            "imgUrl": "https://m.media-amazon.com/images/M/MV5BMzU0NDY0NDEzNV5BMl5BanBnXkFtZTgwOTIxNDU1MDE@._V1_.jpg",
+            "genre": "fantasy",
+            "publishYear": 1937
+        },
+        {
+            "id": 12,
+            "title": "Harry Potter and the Sorcerer's Stone",
+            "author": "J.K. Rowling",
+            "imgUrl": "https://play-lh.googleusercontent.com/xZs_53RaXlrR90EDRPtfT54AEbsw2rxR2nXdfYtZHVyT7WExHQ8-Y-_uplt7xwrRXsIdAJ6llBBs_DbYXLg",
+            "genre": "fantasy",
+            "publishYear": 1997
+        },
+        {
+            "id": 13,
+            "title": "The Fellowship of the Ring",
+            "author": "J.R.R. Tolkien",
+            "imgUrl": "https://m.media-amazon.com/images/I/71Ep7UNeTtL.jpg",
+            "genre": "fantasy",
+            "publishYear": 1954
+        },
+        {
+            "id": 14,
+            "title": "The Alchemist",
+            "author": "Paulo Coelho",
+            "imgUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1654371463i/18144590.jpg",
+            "genre": "philosophy",
+            "publishYear": 1988
+        },
+        {
+            "id": 15,
+            "title": "The Da Vinci Code",
+            "author": "Dan Brown",
+            "imgUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1720313229i/968.jpg",
+            "genre": "thriller",
+            "publishYear": 2003
+        },
+        {
+            "id": 16,
+            "title": "Animal Farm",
+            "author": "George Orwell",
+            "imgUrl": "https://i0.wp.com/paperlanternslit.com/wp-content/uploads/2021/03/AnimalFarm-1.jpg?fit=1535%2C2339&ssl=1",
+            "genre": "political satire",
+            "publishYear": 1945
+        },
+        {
+            "id": 17,
+            "title": "The Picture of Dorian Gray",
+            "author": "Oscar Wilde",
+            "imgUrl": "https://m.media-amazon.com/images/I/71fm0Ap7JcL._AC_UF1000,1000_QL80_.jpg",
+            "genre": "classic",
+            "publishYear": 1890
+        },
+        {
+            "id": 18,
+            "title": "Dracula",
+            "author": "Bram Stoker",
+            "imgUrl": "https://m.media-amazon.com/images/M/MV5BZGVlYTdhYzQtYWVmMi00OTJmLTkyYmYtMWRiMTgyMmY2MjEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "genre": "horror",
+            "publishYear": 1897
+        },
+        {
+            "id": 19,
+            "title": "The Odyssey",
+            "author": "Homer",
+            "imgUrl": "https://m.media-amazon.com/images/I/81g0AATkO9L.jpg",
+            "genre": "epic",
+            "publishYear": 1614
+        },
+        {
+            "id": 20,
+            "title": "The Brothers Karamazov",
+            "author": "Fyodor Dostoevsky",
+            "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDHv979L-91pUYxkhUswFzr62kKEnwUo_u7g&s",
+            "genre": "philosophical",
+            "publishYear": 1880
+        }
+    ]
 }
