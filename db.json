@@ -1,164 +1,201 @@
 {
-    "books": [
-        {
-            "id": 1,
-            "title": "Sherlock Holmes",
-            "author": "Conan Doyle",
-            "imgUrl": "https://m.media-amazon.com/images/I/91dDv9WOcFL._AC_UF1000,1000_QL80_.jpg",
-            "genre": "detective",
-            "publishYear": 1892
-        },
-        {
-            "id": 2,
-            "title": "Murder on the Orient Express",
-            "author": "Agatha Christie",
-            "imgUrl": "https://m.media-amazon.com/images/I/71ihbKf67RL.jpg",
-            "genre": "mystery",
-            "publishYear": 1934
-        },
-        {
-            "id": 3,
-            "title": "Pride and Prejudice",
-            "author": "Jane Austen",
-            "imgUrl": "https://cloud.firebrandtech.com/api/v2/image/111/9780785839866/CoverArtHigh/XL",
-            "genre": "romance",
-            "publishYear": 1813
-        },
-        {
-            "id": 4,
-            "title": "1984",
-            "author": "George Orwell",
-            "imgUrl": "https://www.qanun.az/images/news/compressed/2022-03-26-09-32-261648272746.jpg",
-            "genre": "dystopian",
-            "publishYear": 1949
-        },
-        {
-            "id": 5,
-            "title": "The Great Gatsby",
-            "author": "F. Scott Fitzgerald",
-            "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/The_Great_Gatsby_Cover_1925_Retouched.jpg",
-            "genre": "classic",
-            "publishYear": 1925
-        },
-        {
-            "id": 6,
-            "title": "To Kill a Mockingbird",
-            "author": "Harper Lee",
-            "imgUrl": "https://m.media-amazon.com/images/I/81aY1lxk+9L.jpg",
-            "genre": "classic",
-            "publishYear": 1960
-        },
-        {
-            "id": 7,
-            "title": "The Catcher in the Rye",
-            "author": "J.D. Salinger",
-            "imgUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1398034300i/5107.jpg",
-            "genre": "classic",
-            "publishYear": 1951
-        },
-        {
-            "id": 8,
-            "title": "Brave New World",
-            "author": "Aldous Huxley",
-            "imgUrl": "https://m.media-amazon.com/images/I/71GNqqXuN3L.jpg",
-            "genre": "dystopian",
-            "publishYear": 1932
-        },
-        {
-            "id": 9,
-            "title": "Moby Dick",
-            "author": "Herman Melville",
-            "imgUrl": "https://m.media-amazon.com/images/M/MV5BMmI5NDNhMDctYjc5Ni00YWU3LThjNTctYzZkNGViYmRlN2YwXkEyXkFqcGc@._V1_.jpg",
-            "genre": "adventure",
-            "publishYear": 1851
-        },
-        {
-            "id": 10,
-            "title": "War and Peace",
-            "author": "Leo Tolstoy",
-            "imgUrl": "https://m.media-amazon.com/images/I/91teiIZ5vwL._UF1000,1000_QL80_.jpg",
-            "genre": "historical",
-            "publishYear": 1869
-        },
-        {
-            "id": 11,
-            "title": "The Hobbit",
-            "author": "J.R.R. Tolkien",
-            "imgUrl": "https://m.media-amazon.com/images/M/MV5BMzU0NDY0NDEzNV5BMl5BanBnXkFtZTgwOTIxNDU1MDE@._V1_.jpg",
-            "genre": "fantasy",
-            "publishYear": 1937
-        },
-        {
-            "id": 12,
-            "title": "Harry Potter and the Sorcerer's Stone",
-            "author": "J.K. Rowling",
-            "imgUrl": "https://play-lh.googleusercontent.com/xZs_53RaXlrR90EDRPtfT54AEbsw2rxR2nXdfYtZHVyT7WExHQ8-Y-_uplt7xwrRXsIdAJ6llBBs_DbYXLg",
-            "genre": "fantasy",
-            "publishYear": 1997
-        },
-        {
-            "id": 13,
-            "title": "The Fellowship of the Ring",
-            "author": "J.R.R. Tolkien",
-            "imgUrl": "https://m.media-amazon.com/images/I/71Ep7UNeTtL.jpg",
-            "genre": "fantasy",
-            "publishYear": 1954
-        },
-        {
-            "id": 14,
-            "title": "The Alchemist",
-            "author": "Paulo Coelho",
-            "imgUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1654371463i/18144590.jpg",
-            "genre": "philosophy",
-            "publishYear": 1988
-        },
-        {
-            "id": 15,
-            "title": "The Da Vinci Code",
-            "author": "Dan Brown",
-            "imgUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1720313229i/968.jpg",
-            "genre": "thriller",
-            "publishYear": 2003
-        },
-        {
-            "id": 16,
-            "title": "Animal Farm",
-            "author": "George Orwell",
-            "imgUrl": "https://i0.wp.com/paperlanternslit.com/wp-content/uploads/2021/03/AnimalFarm-1.jpg?fit=1535%2C2339&ssl=1",
-            "genre": "political satire",
-            "publishYear": 1945
-        },
-        {
-            "id": 17,
-            "title": "The Picture of Dorian Gray",
-            "author": "Oscar Wilde",
-            "imgUrl": "https://m.media-amazon.com/images/I/71fm0Ap7JcL._AC_UF1000,1000_QL80_.jpg",
-            "genre": "classic",
-            "publishYear": 1890
-        },
-        {
-            "id": 18,
-            "title": "Dracula",
-            "author": "Bram Stoker",
-            "imgUrl": "https://m.media-amazon.com/images/M/MV5BZGVlYTdhYzQtYWVmMi00OTJmLTkyYmYtMWRiMTgyMmY2MjEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-            "genre": "horror",
-            "publishYear": 1897
-        },
-        {
-            "id": 19,
-            "title": "The Odyssey",
-            "author": "Homer",
-            "imgUrl": "https://m.media-amazon.com/images/I/81g0AATkO9L.jpg",
-            "genre": "epic",
-            "publishYear": 1614
-        },
-        {
-            "id": 20,
-            "title": "The Brothers Karamazov",
-            "author": "Fyodor Dostoevsky",
-            "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDHv979L-91pUYxkhUswFzr62kKEnwUo_u7g&s",
-            "genre": "philosophical",
-            "publishYear": 1880
-        }
+    "users": [
+      {
+        "id": 1,
+        "name": "Elvin Abbasov",
+        "email": "elvin.abbasov@example.com",
+        "createdAt": "2024-12-01T08:00:00Z",
+        "profileImage": "user1.jpeg",
+        "linkedinUrl": "https://linkedin.com/in/elvin-abbasov",
+        "experienceYear": 5,
+        "bio": "Experienced Software Engineer with a passion for web technologies.",
+        "password": "Test123!",
+        "skills": ["JavaScript", "React", "Node.js", "TypeScript"]
+      },
+      {
+        "id": 2,
+        "name": "Leyla Karimova",
+        "email": "leyla.karimova@example.com",
+        "createdAt": "2023-11-01T08:00:00Z",
+        "profileImage": "user2.jpeg",
+        "linkedinUrl": "https://linkedin.com/in/leyla-karimova",
+        "experienceYear": 3,
+        "bio": "Frontend Developer specializing in React and Vue.js.",
+        "password": "Leyla123!",
+        "skills": ["React", "Vue.js", "HTML", "CSS"]
+      },
+      {
+        "id": 3,
+        "name": "Kamran Mehdiyev",
+        "email": "kamran.mehdiyev@example.com",
+        "createdAt": "2024-05-15T12:30:00Z",
+        "profileImage": "user3.jpeg",
+        "linkedinUrl": "https://linkedin.com/in/kamran-mehdiyev",
+        "experienceYear": 7,
+        "bio": "Full-Stack Developer with a love for clean code.",
+        "password": "Kamran123!",
+        "skills": ["Python", "Django", "JavaScript", "React"]
+      },
+      {
+        "id": 4,
+        "name": "Aysel Rustamova",
+        "email": "aysel.rustamova@example.com",
+        "createdAt": "2024-06-20T10:15:00Z",
+        "profileImage": "user4.jpeg",
+        "linkedinUrl": "https://linkedin.com/in/aysel-rustamova",
+        "experienceYear": 4,
+        "bio": "UI/UX Designer turned Frontend Developer.",
+        "password": "Aysel123!",
+        "skills": ["Figma", "Sketch", "React", "JavaScript"]
+      },
+      {
+        "id": 5,
+        "name": "Rashid Aliyev",
+        "email": "rashid.aliyev@example.com",
+        "createdAt": "2023-08-10T15:45:00Z",
+        "profileImage": "user5.jpeg",
+        "linkedinUrl": "https://linkedin.com/in/rashid-aliyev",
+        "experienceYear": 2,
+        "bio": "Junior Developer eager to learn and grow.",
+        "password": "Rashid123!",
+        "skills": ["JavaScript", "HTML", "CSS"]
+      }
+    ],
+    "companies": [
+      {
+        "id": 1,
+        "name": "TechNest LLC",
+        "location": "Baku, Azerbaijan",
+        "industry": "IT",
+        "createdAt": "2023-01-15T12:00:00Z",
+        "website": "https://www.technest.az",
+        "password": "Comp123!",
+        "employeesIds": ["1", "2"],
+        "reviews": [
+          { "userId": 1, "comment": "Great company to work with!", "rating": 5 },
+          { "userId": 2, "comment": "Friendly environment and innovative projects.", "rating": 4 }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "CodeCrafters",
+        "location": "Ankara, Turkey",
+        "industry": "Software Development",
+        "createdAt": "2022-08-10T09:00:00Z",
+        "website": "https://www.codecrafters.com",
+        "password": "Code123!",
+        "employeesIds": ["3", "4"],
+        "reviews": [
+          { "userId": 3, "comment": "Challenging but rewarding experience.", "rating": 4 },
+          { "userId": 4, "comment": "Great mentorship opportunities.", "rating": 5 }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "InnovateX",
+        "location": "Berlin, Germany",
+        "industry": "Tech Innovation",
+        "createdAt": "2023-03-05T14:30:00Z",
+        "website": "https://www.innovatex.de",
+        "password": "Innovate123!",
+        "employeesIds": ["5", "1"],
+        "reviews": [
+          { "userId": 5, "comment": "Cutting-edge projects.", "rating": 5 },
+          { "userId": 1, "comment": "Amazing place for learning new tech.", "rating": 5 }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "DataWave",
+        "location": "London, UK",
+        "industry": "Data Analytics",
+        "createdAt": "2021-07-15T08:15:00Z",
+        "website": "https://www.datawave.uk",
+        "password": "Data123!",
+        "employeesIds": ["3", "4"],
+        "reviews": [
+          { "userId": 3, "comment": "Great work-life balance.", "rating": 4 },
+          { "userId": 4, "comment": "Supportive team and management.", "rating": 5 }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "NextGenAI",
+        "location": "San Francisco, USA",
+        "industry": "Artificial Intelligence",
+        "createdAt": "2024-01-20T10:45:00Z",
+        "website": "https://www.nextgenai.com",
+        "password": "AI123!",
+        "employeesIds": ["1", "5"],
+        "reviews": [
+          { "userId": 1, "comment": "Exciting AI projects.", "rating": 5 },
+          { "userId": 5, "comment": "Very collaborative culture.", "rating": 5 }
+        ]
+      }
+    ],
+    "vacancies": [
+      {
+        "id": 1,
+        "title": "Frontend Developer",
+        "companyId": 1,
+        "description": "We are looking for a skilled Frontend Developer with experience in React and TypeScript.",
+        "salary": "2000-3000 AZN",
+        "postedAt": "2024-11-30T10:00:00Z",
+        "expiresAt": "2024-12-31T23:59:59Z",
+        "employmentType": "Full-time",
+        "isActive": true,
+        "candidates": [
+          { "candidateId": "1", "appliedAt": "2024-12-01T10:00:00Z", "linkedinUrl": "https://linkedin.com/in/elvin-abbasov", "status": "pending" }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Backend Developer",
+        "companyId": 2,
+        "description": "Seeking a backend developer skilled in Python and Django.",
+        "salary": "2500-3500 AZN",
+        "postedAt": "2024-10-15T12:00:00Z",
+        "expiresAt": "2024-12-15T23:59:59Z",
+        "employmentType": "Full-time",
+        "isActive": true,
+        "candidates": []
+      },
+      {
+        "id": 3,
+        "title": "Full-Stack Developer",
+        "companyId": 3,
+        "description": "Full-Stack Developer with experience in modern web technologies.",
+        "salary": "3000-4000 AZN",
+        "postedAt": "2024-11-01T14:00:00Z",
+        "expiresAt": "2024-12-31T23:59:59Z",
+        "employmentType": "Part-time",
+        "isActive": true,
+        "candidates": []
+      },
+      {
+        "id": 4,
+        "title": "Data Analyst",
+        "companyId": 4,
+        "description": "Looking for a Data Analyst to join our growing team.",
+        "salary": "1500-2500 GBP",
+        "postedAt": "2024-11-20T10:00:00Z",
+        "expiresAt": "2024-12-25T23:59:59Z",
+        "employmentType": "Contract",
+        "isActive": true,
+        "candidates": []
+      },
+      {
+        "id": 5,
+        "title": "AI Engineer",
+        "companyId": 5,
+        "description": "AI Engineer needed to develop innovative solutions.",
+        "salary": "5000-7000 USD",
+        "postedAt": "2024-12-01T15:00:00Z",
+        "expiresAt": "2025-01-31T23:59:59Z",
+        "employmentType": "Remote",
+        "isActive": true,
+        "candidates": []
+      }
     ]
-}
+  }
+  
