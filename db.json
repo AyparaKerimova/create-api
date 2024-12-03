@@ -65,6 +65,7 @@
       {
         "id": 1,
         "name": "TechNest LLC",
+        "email": "technest@gmail.com",
         "location": "Baku, Azerbaijan",
         "industry": "IT",
         "createdAt": "2023-01-15T12:00:00Z",
@@ -79,6 +80,7 @@
       {
         "id": 2,
         "name": "CodeCrafters",
+        "email": "codecrafters@gmail.com",
         "location": "Ankara, Turkey",
         "industry": "Software Development",
         "createdAt": "2022-08-10T09:00:00Z",
@@ -93,6 +95,7 @@
       {
         "id": 3,
         "name": "InnovateX",
+        "email": "innovatex@gmail.com",
         "location": "Berlin, Germany",
         "industry": "Tech Innovation",
         "createdAt": "2023-03-05T14:30:00Z",
@@ -107,6 +110,7 @@
       {
         "id": 4,
         "name": "DataWave",
+        "email": "datewave@gmail.com",
         "location": "London, UK",
         "industry": "Data Analytics",
         "createdAt": "2021-07-15T08:15:00Z",
@@ -121,6 +125,7 @@
       {
         "id": 5,
         "name": "NextGenAI",
+        "email": "nextgenai@gmail.com",
         "location": "San Francisco, USA",
         "industry": "Artificial Intelligence",
         "createdAt": "2024-01-20T10:45:00Z",
