@@ -57,7 +57,7 @@
         "capacity": 1000
       }
     ],
-    "orders": [
+    "tickets": [
       {
         "id": 1,
         "userId": 2,
