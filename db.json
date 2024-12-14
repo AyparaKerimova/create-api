@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Adele",
-      "imgURL": "https://example.com/images/adele.jpg",
+      "imgURL": "https://djmidomusictz.com/wp-content/uploads/2024/11/British-sensation-Adele.jpg",
       "genre": "Pop",
       "country": "UK",
       "age": 35,
@@ -14,7 +14,7 @@
     {
       "id": 2,
       "name": "Drake",
-      "imgURL": "https://example.com/images/drake.jpg",
+      "imgURL": "https://cdn.i-scmp.com/sites/default/files/styles/768x768/public/d8/images/canvas/2023/10/17/737f015c-a9ef-4020-9df5-83a9bc70ff96_5ed13648.jpg?itok=akNoFjFy&v=1697537122",
       "genre": "Hip Hop",
       "country": "Canada",
       "age": 37,
@@ -25,7 +25,7 @@
     {
       "id": 3,
       "name": "Taylor Swift",
-      "imgURL": "https://example.com/images/taylor.jpg",
+      "imgURL": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/11/02/PIND/76003260007-110124-taylor-swift-gs-0011.JPG?crop=2522,1891,x315,y0",
       "genre": "Pop",
       "country": "USA",
       "age": 34,
@@ -36,7 +36,7 @@
     {
       "id": 4,
       "name": "Ed Sheeran",
-      "imgURL": "https://example.com/images/ed.jpg",
+      "imgURL": "https://i.guim.co.uk/img/media/7ef212f60ec0a3306d3fd84d1338f43c50c86718/0_0_2014_1977/master/2014.jpg?width=700&quality=85&auto=format&fit=max&s=99e947791fdb675d95be718ea3457647",
       "genre": "Pop",
       "country": "UK",
       "age": 33,
@@ -47,7 +47,7 @@
     {
       "id": 5,
       "name": "Billie Eilish",
-      "imgURL": "https://example.com/images/billie.jpg",
+      "imgURL": "https://media.vanityfair.com/photos/60074829b8542426d4f095b4/master/w_1600%2Cc_limit/a-VF0321_Billie_Eilish_embed-01.jpg",
       "genre": "Alternative",
       "country": "USA",
       "age": 22,
@@ -58,7 +58,7 @@
     {
       "id": 6,
       "name": "BTS",
-      "imgURL": "https://example.com/images/bts.jpg",
+      "imgURL": "https://m.media-amazon.com/images/M/MV5BYzU5NjA3Y2YtY2UwZi00ZDMwLWE5NjAtOTljNTA4NTI4ZjYyXkEyXkFqcGc@._V1_.jpg",
       "genre": "K-Pop",
       "country": "South Korea",
       "age": null,
@@ -69,7 +69,7 @@
     {
       "id": 7,
       "name": "The Weeknd",
-      "imgURL": "https://example.com/images/theweeknd.jpg",
+      "imgURL": "https://images.elle.com.br/2023/10/Snapinsta.app_146997524_213153530501944_9145275337897666789_n_1080.jpg",
       "genre": "R&B",
       "country": "Canada",
       "age": 34,
