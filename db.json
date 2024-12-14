@@ -1,108 +1,81 @@
 {
-    "events": [
-      {
-        "id": 1,
-        "name": "Tech Conference 2024",
-        "date": "2024-12-15",
-        "venueId": 1,
-        "description": "A conference for tech enthusiasts.",
-        "image": "https://example.com/images/tech-conference.jpg",
-        "price": 50,
-        "capacity": 500,
-        "reviews": [
-          {
-            "id": 1,
-            "userId": 2,
-            "rating": 5,
-            "comment": "Great event, learned a lot!"
-          },
-          {
-            "id": 2,
-            "userId": 3,
-            "rating": 4,
-            "comment": "Very well organized, but a bit crowded."
-          }
-        ]
-      },
-      {
-        "id": 2,
-        "name": "Music Festival",
-        "date": "2024-12-20",
-        "venueId": 2,
-        "description": "A grand festival with live music.",
-        "image": "https://example.com/images/music-festival.jpg",
-        "price": 75,
-        "capacity": 1000,
-        "reviews": [
-          {
-            "id": 3,
-            "userId": 2,
-            "rating": 4,
-            "comment": "Amazing atmosphere, loved the performances!"
-          }
-        ]
-      }
-    ],
-    "venues": [
-      {
-        "id": 1,
-        "name": "Tech Hub",
-        "location": "City Center",
-        "capacity": 500
-      },
-      {
-        "id": 2,
-        "name": "Open Grounds",
-        "location": "Riverside",
-        "capacity": 1000
-      }
-    ],
-    "tickets": [
-      {
-        "id": 1,
-        "userId": 2,
-        "eventId": 1,
-        "quantity": 2,
-        "totalPrice": 100,
-        "orderDate": "2024-12-01"
-      },
-      {
-        "id": 2,
-        "userId": 3,
-        "eventId": 2,
-        "quantity": 1,
-        "totalPrice": 75,
-        "orderDate": "2024-12-02"
-      }
-    ],
-    "users": [
-      {
-        "id": 1,
-        "name": "Admin User",
-        "email": "admin@example.com",
-        "password": "admin123",
-        "balance": 0,
-        "totalSpent": 0,
-        "isAdmin": true
-      },
-      {
-        "id": 2,
-        "name": "John Doe",
-        "email": "johndoe@example.com",
-        "password": "password",
-        "balance": 150,
-        "totalSpent": 100,
-        "isAdmin": false
-      },
-      {
-        "id": 3,
-        "name": "Jane Smith",
-        "email": "janesmith@example.com",
-        "password": "password",
-        "balance": 200,
-        "totalSpent": 75,
-        "isAdmin": false
-      }
-    ]
-  }
-  
+  "artists": [
+    {
+      "id": 1,
+      "name": "Adele",
+      "imgURL": "https://example.com/images/adele.jpg",
+      "genre": "Pop",
+      "country": "UK",
+      "age": 35,
+      "info": "Adele is a Grammy-winning artist known for her powerful voice and emotional ballads.",
+      "isVerified": true,
+      "songs": ["Hello", "Someone Like You", "Rolling in the Deep"]
+    },
+    {
+      "id": 2,
+      "name": "Drake",
+      "imgURL": "https://example.com/images/drake.jpg",
+      "genre": "Hip Hop",
+      "country": "Canada",
+      "age": 37,
+      "info": "Drake is a globally recognized artist and rapper with numerous chart-topping hits.",
+      "isVerified": true,
+      "songs": ["Hotline Bling", "God's Plan", "One Dance"]
+    },
+    {
+      "id": 3,
+      "name": "Taylor Swift",
+      "imgURL": "https://example.com/images/taylor.jpg",
+      "genre": "Pop",
+      "country": "USA",
+      "age": 34,
+      "info": "Taylor Swift is a versatile artist known for her storytelling and genre-spanning music.",
+      "isVerified": true,
+      "songs": ["Love Story", "Blank Space", "Shake It Off"]
+    },
+    {
+      "id": 4,
+      "name": "Ed Sheeran",
+      "imgURL": "https://example.com/images/ed.jpg",
+      "genre": "Pop",
+      "country": "UK",
+      "age": 33,
+      "info": "Ed Sheeran is a prolific singer-songwriter with a unique style blending pop and acoustic elements.",
+      "isVerified": true,
+      "songs": ["Shape of You", "Perfect", "Thinking Out Loud"]
+    },
+    {
+      "id": 5,
+      "name": "Billie Eilish",
+      "imgURL": "https://example.com/images/billie.jpg",
+      "genre": "Alternative",
+      "country": "USA",
+      "age": 22,
+      "info": "Billie Eilish is a multi-award-winning artist known for her dark, moody sound and innovative music videos.",
+      "isVerified": true,
+      "songs": ["Bad Guy", "Ocean Eyes", "Happier Than Ever"]
+    },
+    {
+      "id": 6,
+      "name": "BTS",
+      "imgURL": "https://example.com/images/bts.jpg",
+      "genre": "K-Pop",
+      "country": "South Korea",
+      "age": null,
+      "info": "BTS is a globally acclaimed K-Pop group with a massive international fanbase.",
+      "isVerified": true,
+      "songs": ["Dynamite", "Butter", "Permission to Dance"]
+    },
+    {
+      "id": 7,
+      "name": "The Weeknd",
+      "imgURL": "https://example.com/images/theweeknd.jpg",
+      "genre": "R&B",
+      "country": "Canada",
+      "age": 34,
+      "info": "The Weeknd is known for his unique voice and hits blending R&B and pop elements.",
+      "isVerified": true,
+      "songs": ["Blinding Lights", "Starboy", "The Hills"]
+    }
+  ]
+}
