@@ -1,81 +1,156 @@
-{
-  "artists": [
-    {
-      "id": 1,
-      "name": "Adele",
-      "imgURL": "https://djmidomusictz.com/wp-content/uploads/2024/11/British-sensation-Adele.jpg",
-      "genre": "Pop",
-      "country": "UK",
-      "age": 35,
-      "info": "Adele is a Grammy-winning artist known for her powerful voice and emotional ballads.",
-      "isVerified": true,
-      "songs": ["Hello", "Someone Like You", "Rolling in the Deep"]
-    },
-    {
-      "id": 2,
-      "name": "Drake",
-      "imgURL": "https://cdn.i-scmp.com/sites/default/files/styles/768x768/public/d8/images/canvas/2023/10/17/737f015c-a9ef-4020-9df5-83a9bc70ff96_5ed13648.jpg?itok=akNoFjFy&v=1697537122",
-      "genre": "Hip Hop",
-      "country": "Canada",
-      "age": 37,
-      "info": "Drake is a globally recognized artist and rapper with numerous chart-topping hits.",
-      "isVerified": true,
-      "songs": ["Hotline Bling", "God's Plan", "One Dance"]
-    },
-    {
-      "id": 3,
-      "name": "Taylor Swift",
-      "imgURL": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/11/02/PIND/76003260007-110124-taylor-swift-gs-0011.JPG?crop=2522,1891,x315,y0",
-      "genre": "Pop",
-      "country": "USA",
-      "age": 34,
-      "info": "Taylor Swift is a versatile artist known for her storytelling and genre-spanning music.",
-      "isVerified": true,
-      "songs": ["Love Story", "Blank Space", "Shake It Off"]
-    },
-    {
-      "id": 4,
-      "name": "Ed Sheeran",
-      "imgURL": "https://i.guim.co.uk/img/media/7ef212f60ec0a3306d3fd84d1338f43c50c86718/0_0_2014_1977/master/2014.jpg?width=700&quality=85&auto=format&fit=max&s=99e947791fdb675d95be718ea3457647",
-      "genre": "Pop",
-      "country": "UK",
-      "age": 33,
-      "info": "Ed Sheeran is a prolific singer-songwriter with a unique style blending pop and acoustic elements.",
-      "isVerified": true,
-      "songs": ["Shape of You", "Perfect", "Thinking Out Loud"]
-    },
-    {
-      "id": 5,
-      "name": "Billie Eilish",
-      "imgURL": "https://media.vanityfair.com/photos/60074829b8542426d4f095b4/master/w_1600%2Cc_limit/a-VF0321_Billie_Eilish_embed-01.jpg",
-      "genre": "Alternative",
-      "country": "USA",
-      "age": 22,
-      "info": "Billie Eilish is a multi-award-winning artist known for her dark, moody sound and innovative music videos.",
-      "isVerified": true,
-      "songs": ["Bad Guy", "Ocean Eyes", "Happier Than Ever"]
-    },
-    {
-      "id": 6,
-      "name": "BTS",
-      "imgURL": "https://m.media-amazon.com/images/M/MV5BYzU5NjA3Y2YtY2UwZi00ZDMwLWE5NjAtOTljNTA4NTI4ZjYyXkEyXkFqcGc@._V1_.jpg",
-      "genre": "K-Pop",
-      "country": "South Korea",
-      "age": null,
-      "info": "BTS is a globally acclaimed K-Pop group with a massive international fanbase.",
-      "isVerified": true,
-      "songs": ["Dynamite", "Butter", "Permission to Dance"]
-    },
-    {
-      "id": 7,
-      "name": "The Weeknd",
-      "imgURL": "https://images.elle.com.br/2023/10/Snapinsta.app_146997524_213153530501944_9145275337897666789_n_1080.jpg",
-      "genre": "R&B",
-      "country": "Canada",
-      "age": 34,
-      "info": "The Weeknd is known for his unique voice and hits blending R&B and pop elements.",
-      "isVerified": true,
-      "songs": ["Blinding Lights", "Starboy", "The Hills"]
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "title": "Inception",
+    "genre": "Sci-Fi",
+    "releaseYear": 2010,
+    "poster": "https://image.url/inception.jpg",
+    "desc": "A thief who enters the dreams of others to steal secrets must perform the impossible: inception.",
+    "cast": [
+      { "name": "Leonardo DiCaprio", "role": "Cobb" },
+      { "name": "Joseph Gordon-Levitt", "role": "Arthur" },
+      { "name": "Elliot Page", "role": "Ariadne" }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "The Dark Knight",
+    "genre": "Action",
+    "releaseYear": 2008,
+    "poster": "https://image.url/darkknight.jpg",
+    "desc": "Batman faces the Joker, a criminal mastermind who wants to plunge Gotham into chaos.",
+    "cast": [
+      { "name": "Christian Bale", "role": "Bruce Wayne / Batman" },
+      { "name": "Heath Ledger", "role": "Joker" },
+      { "name": "Aaron Eckhart", "role": "Harvey Dent" }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Interstellar",
+    "genre": "Sci-Fi",
+    "releaseYear": 2014,
+    "poster": "https://image.url/interstellar.jpg",
+    "desc": "A team of explorers travels through a wormhole in search of a new habitable planet.",
+    "cast": [
+      { "name": "Matthew McConaughey", "role": "Cooper" },
+      { "name": "Anne Hathaway", "role": "Brand" },
+      { "name": "Jessica Chastain", "role": "Murph" }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Parasite",
+    "genre": "Thriller",
+    "releaseYear": 2019,
+    "poster": "https://image.url/parasite.jpg",
+    "desc": "A poor family schemes to become employed by a wealthy family by posing as unrelated professionals.",
+    "cast": [
+      { "name": "Song Kang-ho", "role": "Kim Ki-taek" },
+      { "name": "Lee Sun-kyun", "role": "Park Dong-ik" },
+      { "name": "Cho Yeo-jeong", "role": "Yeon-gyo" }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "The Shawshank Redemption",
+    "genre": "Drama",
+    "releaseYear": 1994,
+    "poster": "https://image.url/shawshank.jpg",
+    "desc": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of decency.",
+    "cast": [
+      { "name": "Tim Robbins", "role": "Andy Dufresne" },
+      { "name": "Morgan Freeman", "role": "Ellis Redding" }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Pulp Fiction",
+    "genre": "Crime",
+    "releaseYear": 1994,
+    "poster": "https://image.url/pulpfiction.jpg",
+    "desc": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine.",
+    "cast": [
+      { "name": "John Travolta", "role": "Vincent Vega" },
+      { "name": "Samuel L. Jackson", "role": "Jules Winnfield" },
+      { "name": "Uma Thurman", "role": "Mia Wallace" }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "The Godfather",
+    "genre": "Crime",
+    "releaseYear": 1972,
+    "poster": "https://image.url/godfather.jpg",
+    "desc": "The aging patriarch of an organized crime dynasty transfers control to his reluctant son.",
+    "cast": [
+      { "name": "Marlon Brando", "role": "Vito Corleone" },
+      { "name": "Al Pacino", "role": "Michael Corleone" },
+      { "name": "James Caan", "role": "Sonny Corleone" }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Forrest Gump",
+    "genre": "Drama",
+    "releaseYear": 1994,
+    "poster": "https://image.url/forrestgump.jpg",
+    "desc": "The story of a man with a low IQ who inadvertently influences major historical events.",
+    "cast": [
+      { "name": "Tom Hanks", "role": "Forrest Gump" },
+      { "name": "Robin Wright", "role": "Jenny Curran" },
+      { "name": "Gary Sinise", "role": "Lt. Dan Taylor" }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "The Matrix",
+    "genre": "Sci-Fi",
+    "releaseYear": 1999,
+    "poster": "https://image.url/matrix.jpg",
+    "desc": "A computer hacker learns about the true nature of reality and his role in the war against its controllers.",
+    "cast": [
+      { "name": "Keanu Reeves", "role": "Neo" },
+      { "name": "Laurence Fishburne", "role": "Morpheus" },
+      { "name": "Carrie-Anne Moss", "role": "Trinity" }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "genre": "Fantasy",
+    "releaseYear": 2001,
+    "poster": "https://image.url/lotr.jpg",
+    "desc": "A meek Hobbit and his allies set out to destroy the powerful One Ring.",
+    "cast": [
+      { "name": "Elijah Wood", "role": "Frodo Baggins" },
+      { "name": "Ian McKellen", "role": "Gandalf" },
+      { "name": "Viggo Mortensen", "role": "Aragorn" }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Titanic",
+    "genre": "Romance",
+    "releaseYear": 1997,
+    "poster": "https://image.url/titanic.jpg",
+    "desc": "A young couple from different social classes fall in love aboard the ill-fated R.M.S. Titanic.",
+    "cast": [
+      { "name": "Leonardo DiCaprio", "role": "Jack Dawson" },
+      { "name": "Kate Winslet", "role": "Rose DeWitt Bukater" }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Gladiator",
+    "genre": "Action",
+    "releaseYear": 2000,
+    "poster": "https://image.url/gladiator.jpg",
+    "desc": "A betrayed Roman general seeks revenge against the corrupt emperor who murdered his family.",
+    "cast": [
+      { "name": "Russell Crowe", "role": "Maximus" },
+      { "name": "Joaquin Phoenix", "role": "Commodus" },
+      { "name": "Connie Nielsen", "role": "Lucilla" }
+    ]
+  }
+]
