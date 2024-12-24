@@ -1,176 +1,91 @@
 {
-  "countries": [
+  "sliders": [
     {
-      "id": 1,
-      "name": "Turkey",
-      "population": 85000000,
-      "flagImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/2560px-Flag_of_Turkey.svg.png",
-      "capital": "Ankara",
-      "description": "A country that bridges Europe and Asia.",
-      "religion": "Islam"
+      "id": "1",
+      "title": "Dog",
+      "url": "https://wellbeloved.com/cdn/shop/articles/JWB-5-Image-1.jpg?v=1716214755"
     },
     {
-      "id": 2,
-      "name": "United States",
-      "population": 331000000,
-      "flagImg": "https://cdn.britannica.com/80/4480-004-83C31275/flag-Stars-and-Stripes-July-4-1818.jpg",
-      "capital": "Washington, D.C.",
-      "description": "A country known for its diverse culture and economic power.",
-      "religion": "Christianity"
+      "id": "2",
+      "title": "Turtle",
+      "url": "https://c.files.bbci.co.uk/f8b8/live/c5f45d80-741b-11ef-9423-ff8d003051c7.jpg"
     },
     {
-      "id": 3,
-      "name": "Japan",
-      "population": 125000000,
-      "flagImg": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/640px-Flag_of_Japan.svg.png",
-      "capital": "Tokyo",
-      "description": "An island nation in East Asia known for its technology and culture.",
-      "religion": "Shinto and Buddhism"
+      "id": "3",
+      "title": "Cat",
+      "url": "https://cdn.britannica.com/39/226539-050-D21D7721/Portrait-of-a-cat-with-whiskers-visible.jpg"
     },
     {
-      "id": 4,
-      "name": "Germany",
-      "population": 83000000,
-      "flagImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/2560px-Flag_of_Germany.svg.png",
-      "capital": "Berlin",
-      "description": "A central European country known for its engineering and history.",
-      "religion": "Christianity"
+      "id": "4",
+      "title": "Bear",
+      "url": "https://wildlifesos.org/wp-content/uploads/2023/08/230722_Dachigam-jk-_Brpwn-bear_Sebastian_SOS01631-copy-1-scaled.jpg"
     },
     {
-      "id": 5,
-      "name": "India",
-      "population": 1400000000,
-      "flagImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/800px-Flag_of_India.svg.png",
-      "capital": "New Delhi",
-      "description": "A South Asian country with rich history and diverse cultures.",
-      "religion": "Hinduism"
+      "id": "5",
+      "title": "Bee",
+      "url": "https://images.squarespace-cdn.com/content/v1/56e4ca0540261d39b90e4b18/1606168778895-8RA13OC0SWBQJ84CD0U1/Honey%252BBee%252Bwb%252B-201113-1.jpg"
     },
     {
-      "id": 6,
-      "name": "Brazil",
-      "population": 213000000,
-      "flagImg": "https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg",
-      "capital": "Brasília",
-      "description": "The largest country in South America known for its rainforests and culture.",
-      "religion": "Christianity"
+      "id": "xua5roirnjge8xyesmg8",
+      "title": "Fox",
+      "url": "https://res.cloudinary.com/dug3akriz/image/upload/v1734971845/xua5roirnjge8xyesmg8.jpg"
     },
     {
-      "id": 7,
-      "name": "Australia",
-      "population": 26000000,
-      "flagImg": "https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg",
-      "capital": "Canberra",
-      "description": "A country and continent known for its unique wildlife and landscapes.",
-      "religion": "Christianity"
+      "id": "jrscxilzkemdj4p0kfma",
+      "title": "Frog",
+      "url": "https://res.cloudinary.com/dug3akriz/image/upload/v1734971989/jrscxilzkemdj4p0kfma.png"
     },
     {
-      "id": 8,
-      "name": "Russia",
-      "population": 146000000,
-      "flagImg": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/1200px-Flag_of_Russia.svg.png",
-      "capital": "Moscow",
-      "description": "The largest country by area spanning Europe and Asia.",
-      "religion": "Orthodox Christianity"
+      "id": "udlcyocb7d6h4e0cf5mh",
+      "title": "White Bear",
+      "url": "https://res.cloudinary.com/dug3akriz/image/upload/v1734978029/udlcyocb7d6h4e0cf5mh.webp"
     },
     {
-      "id": 9,
-      "name": "China",
-      "population": 1402000000,
-      "flagImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/2560px-Flag_of_the_People%27s_Republic_of_China.svg.png",
-      "capital": "Beijing",
-      "description": "The world's most populous country with a rich history.",
-      "religion": "Buddhism and Taoism"
-    },
-    {
-      "id": 10,
-      "name": "France",
-      "population": 67000000,
-      "flagImg": "https://example.com/flags/france.png",
-      "capital": "Paris",
-      "description": "Known for its art, culture, and cuisine.",
-      "religion": "Christianity"
+      "id": "uca7qdfusbqa05aruhko",
+      "title": "fox",
+      "url": "https://res.cloudinary.com/dug3akriz/image/upload/v1735032021/uca7qdfusbqa05aruhko.jpg"
     }
   ],
-  "messages": [
+  "animals": [
     {
-      "id": 1,
-      "fullName": "John Doe",
-      "email": "johndoe@example.com",
-      "title": "Meeting Reminder",
-      "message": "Don't forget about the meeting tomorrow at 10:00 AM.",
-      "isRead": false
+      "id": "xj7dvifjfpycwc1w4bx4",
+      "name": "Tom",
+      "animalType": "Whale",
+      "breed": "Killer",
+      "age": "14",
+      "weight": "8ton",
+      "owner": "Aypara",
+      "imageUrl": "https://res.cloudinary.com/dug3akriz/image/upload/v1735029424/xj7dvifjfpycwc1w4bx4.jpg"
     },
     {
-      "id": 2,
-      "fullName": "Jane Smith",
-      "email": "janesmith@example.com",
-      "title": "Event Invitation",
-      "message": "You are invited to the annual gala dinner on Saturday.",
-      "isRead": false
+      "id": "me4npfijrkaftp0fwr0l",
+      "name": "foxie",
+      "animalType": "fox",
+      "breed": "testfox",
+      "age": "12",
+      "weight": "27kg",
+      "owner": "Aypara",
+      "imageUrl": "https://res.cloudinary.com/dug3akriz/image/upload/v1735030892/me4npfijrkaftp0fwr0l.jpg"
     },
     {
-      "id": 3,
-      "fullName": "Emma Johnson",
-      "email": "emmajohnson@example.com",
-      "title": "Project Update",
-      "message": "Please review the latest updates on the project.",
-      "isRead": false
+      "id": "ty95vrnhqbgrglmqxjyw",
+      "name": "Fernando",
+      "animalType": "Bear",
+      "breed": "White",
+      "age": "1",
+      "weight": "600kg",
+      "owner": "Masha",
+      "imageUrl": "https://res.cloudinary.com/dug3akriz/image/upload/v1735030971/ty95vrnhqbgrglmqxjyw.webp"
     },
     {
-      "id": 4,
-      "fullName": "Oliver Brown",
-      "email": "oliverbrown@example.com",
-      "title": "Feedback Request",
-      "message": "Kindly provide feedback on the recent changes.",
-      "isRead": false
-    },
-    {
-      "id": 5,
-      "fullName": "Sophia Davis",
-      "email": "sophiadavis@example.com",
-      "title": "Congratulations!",
-      "message": "Congratulations on your recent promotion!",
-      "isRead": false
-    },
-    {
-      "id": 6,
-      "fullName": "Liam Wilson",
-      "email": "liamwilson@example.com",
-      "title": "Invoice Due",
-      "message": "Your invoice #12345 is due on December 31, 2024.",
-      "isRead": false
-    },
-    {
-      "id": 7,
-      "fullName": "Mia Thompson",
-      "email": "miathompson@example.com",
-      "title": "Birthday Wishes",
-      "message": "Happy Birthday! Have a wonderful day!",
-      "isRead": false
-    },
-    {
-      "id": 8,
-      "fullName": "Noah Garcia",
-      "email": "noahgarcia@example.com",
-      "title": "Travel Plans",
-      "message": "Let's finalize the travel itinerary for next week.",
-      "isRead": false
-    },
-    {
-      "id": 9,
-      "fullName": "Ava Martinez",
-      "email": "avamartinez@example.com",
-      "title": "Client Follow-up",
-      "message": "Follow up with the client regarding the proposal.",
-      "isRead": false
-    },
-    {
-      "id": 10,
-      "fullName": "William Rodriguez",
-      "email": "williamrodriguez@example.com",
-      "title": "Weekly Report",
-      "message": "The weekly report is attached. Let me know your thoughts.",
-      "isRead": false
+      "id": "uspq4am3iguvh1qnhmch",
+      "name": "test",
+      "animalType": "test",
+      "breed": "waedxcsaw",
+      "age": "14",
+      "weight": "1kg",
+      "owner": "test",
+      "imageUrl": "https://res.cloudinary.com/dug3akriz/image/upload/v1735032049/uspq4am3iguvh1qnhmch.png"
     }
   ]
 }
